@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "id": "bottleyourxp",
-  "version": "3.2",
+  "version": "3.3",
 
   "name": "Bottle Your Xp",
   "description": "A minimalistic configurable mod that allows the creation of experience bottles from your own gathered xp.",
   "authors": [ "Rick South" ],
   "contact": {
-    "homepage": "https://curseforge.com/minecraft/mc-mods/bottle-your-xp",
-    "sources": "https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Bottle%20Your%20Xp",
-    "issues": "https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Bottle%20Your%20Xp"
+    "homepage": "https://serilum.com/mod/bottle-your-xp",
+    "sources": "https://github.com/Serilum/Bottle-Your-Xp",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Bottle%20Your%20Xp"
   },
 
   "license": "All Right Reserved",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.20",
     "java": ">=17",
-    "collective": ">=7.3"
+    "collective": ">=7.21"
   },
 
   "custom": {
