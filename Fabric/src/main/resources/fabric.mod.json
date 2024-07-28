@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "bottleyourxp",
-  "version": "3.3",
+  "version": "3.4",
 
   "name": "Bottle Your Xp",
   "description": "A minimalistic configurable mod that allows the creation of experience bottles from your own gathered xp.",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.20",
     "java": ">=21",
-    "collective": ">=7.55"
+    "collective": ">=7.78"
   },
 
   "custom": {
@@ -44,12 +44,9 @@
 	  " Alister",
 	  " Andrean Olgo",
 	  " aternosorg",
-	  " BirdieMiner",
 	  " Cherriesaurus",
-	  " Jack",
-	  " Jeremy Langford",
 	  " Michael W. S.",
-	  " pepe1191",
+	  " Nahuel Fernandez",
 	  " Shana Gitnick",
 	  " Tyler Behl"
   ]
