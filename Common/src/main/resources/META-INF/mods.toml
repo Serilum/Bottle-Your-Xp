@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="*"
+license="All rights reserved"
+issueTrackerURL="https://github.com/Serilum/.issue-tracker/labels/Mod:%20Bottle%20Your%20Xp"
+logoFile="icon.png"
+
+[[mods]]
+modId="bottleyourxp"
+version="3.4"
+displayName="Bottle Your Xp"
+displayURL="https://serilum.com/mod/bottle-your-xp"
+authors="Rick South"
+description='''A minimalistic configurable mod that allows the creation of experience bottles from your own gathered xp.
+'''
+credits='''Thank you very much to my Membership sponsors for supporting the development of this mod:  
+
+Alister, Andrean Olgo, aternosorg, Cherriesaurus, Michael W. S., Nahuel Fernandez, Shana Gitnick, Tyler Behl   
+
+If you would like to contribute too, check out https://serilum.com/donate. Appreciate it! <3   
+'''
+
+[[dependencies.bottleyourxp]]
+    modId="collective"
+    mandatory=true
+    versionRange="[7.80,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.bottleyourxp]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.21,1.21.1]"
+    ordering="NONE"
+    side="BOTH"
