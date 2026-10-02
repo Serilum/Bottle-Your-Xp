@@ -1,6 +1,6 @@
-package com.natamus.bottleyourxp;
+package com.serilum.bottleyourxp;
 
-import com.natamus.bottleyourxp.config.ConfigHandler;
+import com.serilum.bottleyourxp.config.ConfigHandler;
 
 public class ModCommon {
 

@@ -1,7 +1,7 @@
-package com.natamus.bottleyourxp.config;
+package com.serilum.bottleyourxp.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.bottleyourxp.util.Reference;
+import com.serilum.bottleyourxp.util.Reference;
 
 import java.util.Arrays;
 import java.util.HashMap;

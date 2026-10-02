@@ -1,7 +1,7 @@
-package com.natamus.bottleyourxp.fabric.config;
+package com.serilum.bottleyourxp.fabric.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.bottleyourxp.util.Reference;
+import com.serilum.bottleyourxp.util.Reference;
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
 
