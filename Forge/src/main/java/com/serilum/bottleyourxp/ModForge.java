@@ -1,8 +1,8 @@
-package com.natamus.bottleyourxp;
+package com.serilum.bottleyourxp;
 
-import com.natamus.bottleyourxp.forge.config.IntegrateForgeConfig;
-import com.natamus.bottleyourxp.forge.events.ForgeClickEvent;
-import com.natamus.bottleyourxp.util.Reference;
+import com.serilum.bottleyourxp.forge.config.IntegrateForgeConfig;
+import com.serilum.bottleyourxp.forge.events.ForgeClickEvent;
+import com.serilum.bottleyourxp.util.Reference;
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import net.minecraftforge.eventbus.api.bus.BusGroup;
@@ -30,7 +30,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	ForgeClickEvent.registerEventsInBus();
+		ForgeClickEvent.registerEventsInBus();
 	}
 
 	private static void setGlobalConstants() {

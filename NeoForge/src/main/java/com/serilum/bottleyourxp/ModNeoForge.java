@@ -1,8 +1,8 @@
-package com.natamus.bottleyourxp;
+package com.serilum.bottleyourxp;
 
-import com.natamus.bottleyourxp.neoforge.config.IntegrateNeoForgeConfig;
-import com.natamus.bottleyourxp.neoforge.events.NeoForgeClickEvent;
-import com.natamus.bottleyourxp.util.Reference;
+import com.serilum.bottleyourxp.neoforge.config.IntegrateNeoForgeConfig;
+import com.serilum.bottleyourxp.neoforge.events.NeoForgeClickEvent;
+import com.serilum.bottleyourxp.util.Reference;
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import net.neoforged.neoforge.common.NeoForge;
