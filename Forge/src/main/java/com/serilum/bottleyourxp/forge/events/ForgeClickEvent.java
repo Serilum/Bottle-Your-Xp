@@ -1,6 +1,6 @@
-package com.natamus.bottleyourxp.forge.events;
+package com.serilum.bottleyourxp.forge.events;
 
-import com.natamus.bottleyourxp.events.ClickEvent;
+import com.serilum.bottleyourxp.events.ClickEvent;
 import net.minecraftforge.event.entity.player.PlayerInteractEvent;
 import net.minecraftforge.eventbus.api.bus.BusGroup;
 import net.minecraftforge.eventbus.api.listener.SubscribeEvent;

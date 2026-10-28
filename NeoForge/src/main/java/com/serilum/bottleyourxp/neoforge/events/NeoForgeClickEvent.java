@@ -1,6 +1,6 @@
-package com.natamus.bottleyourxp.neoforge.events;
+package com.serilum.bottleyourxp.neoforge.events;
 
-import com.natamus.bottleyourxp.events.ClickEvent;
+import com.serilum.bottleyourxp.events.ClickEvent;
 import net.neoforged.neoforge.event.entity.player.PlayerInteractEvent;
 import net.neoforged.bus.api.SubscribeEvent;
 

@@ -1,6 +1,6 @@
-package com.natamus.bottleyourxp.events;
+package com.serilum.bottleyourxp.events;
 
-import com.natamus.bottleyourxp.config.ConfigHandler;
+import com.serilum.bottleyourxp.config.ConfigHandler;
 import com.natamus.collective.functions.EntityFunctions;
 import com.natamus.collective.functions.ExperienceFunctions;
 import com.natamus.collective.functions.ItemFunctions;

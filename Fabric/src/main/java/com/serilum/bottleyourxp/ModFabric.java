@@ -1,7 +1,7 @@
-package com.natamus.bottleyourxp;
+package com.serilum.bottleyourxp;
 
-import com.natamus.bottleyourxp.events.ClickEvent;
-import com.natamus.bottleyourxp.util.Reference;
+import com.serilum.bottleyourxp.events.ClickEvent;
+import com.serilum.bottleyourxp.util.Reference;
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import net.fabricmc.api.ModInitializer;

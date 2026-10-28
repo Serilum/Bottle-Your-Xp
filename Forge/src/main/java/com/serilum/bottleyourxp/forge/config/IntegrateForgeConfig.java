@@ -1,7 +1,7 @@
-package com.natamus.bottleyourxp.forge.config;
+package com.serilum.bottleyourxp.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.bottleyourxp.util.Reference;
+import com.serilum.bottleyourxp.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 
